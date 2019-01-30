@@ -1,0 +1,19 @@
+{
+  "name": "sprint0",
+  "version": "1.0.0",
+  "description": "Sprint0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-hthoma20.git"
+  },
+  "author": "Harry Thoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-hthoma20/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-hthoma20#readme"
+}
